@@ -2,23 +2,38 @@
 
 1st Project
 ---
-Project Content
+
+This project is structured into three main parts, each focusing on different aspects of computer networking:
+-
+
+Part One:
+Covers foundational concepts such as network protocols, addressing schemes, and basic troubleshooting techniques.
+
+Part Two:
+Explores practical communication scenarios including intra-computer communication, inter-device communication via physical cables, and wireless communication using Wi-Fi technology.
+
+Part Three:
+Extends the exploration to advanced networking scenarios, incorporating server-client interactions, web server setups, and development of a website using HTML and CSS.
+
+Through these structured segments, students progress from understanding foundational principles to practical applications and even website development, gaining a holistic understanding of computer networking.
+***
+2nd Project
 ---
-The project is divided into three main parts:
+Project Title: Building a Topology Using Packet Tracer Tool
+-
 
-Part One: This section likely covers foundational concepts of computer networks, such as network protocols, addressing schemes, and basic network troubleshooting techniques.
+Summary:
+---
+This Project delves into various aspects of network setup and functionality, including IP subnetting, router configuration, server setup, VLAN management, routing protocols, and connectivity testing.
 
-Part Two: This section explores communication scenarios both within the same computer and between different devices. It includes:
+Project Details:
+---
+Delve into the specifics of IP assignment and subnetting, meticulously outlined in Part 0 of the report. The subsequent sections detail the creation and configuration of the network topology using Packet Tracer, showcasing the setup of routers (Router0, Router1, Router2), servers (HTTP, DNS, Email), and switches. Each configuration is accompanied by detailed figures illustrating the setup process and the associated IOS commands.
 
-Communication on the Same Computer: Likely involves implementing and testing communication protocols like TCP and UDP within a single machine.
-Communication on Different Devices Through Cable: Involves setting up network communication between devices using physical cables, possibly Ethernet or similar connections.
-Communication on Different Devices Through WIFI: Focuses on wireless network communication between devices, likely utilizing Wi-Fi technology.
+Test the connectivity of the network through applying ping and tracert commands, accessing the configured website from various PCs, and sending emails across the network. The report concludes with a meticulous examination of access control lists (ACLs) to enforce network security measures, demonstrating the denial of specific traffic flows as per project requirements.
 
-Part Three: This section likely extends the exploration to more advanced networking scenarios, possibly involving server-client interactions and web server setups. It includes:
-
-Communication on the Same Computer: Further exploration of server-client interactions and web server configurations within a single machine.
-Communication on Different Devices: Continuing the exploration of network communication between different devices, possibly involving more complex configurations and scenarios.
-
+Explore the intricacies of computer networking through the lens of this comprehensive project report, offering invaluable insights and practical applications for aspiring network engineers and enthusiasts alike.
+***
 Contributors
 ---
 Abdalkarim Eiss (Student ID: 1200015), 
@@ -29,5 +44,5 @@ Instructors
 ---
 The project was supervised by Dr. Abdalkarim Awwad and Dr. Ibrahim Nimer.
 ---
-All project details are included in the repository and all people are free to explore.
+All projects details are included in the repository and all people are free to explore.
 ***
