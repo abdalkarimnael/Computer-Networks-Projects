@@ -36,13 +36,13 @@ Explore the intricacies of computer networking through the lens of this comprehe
 ***
 Contributors
 ---
-Abdalkarim Eiss (Student ID: 1200015), 
-Mahmoud Khatib (Student ID: 1200275), 
-Firas Sandouka (Student ID: 1200779)
+Abdalkarim Eiss, 
+Mahmoud Khatib, 
+Firas Sandouka
 ***
 Instructors
 ---
-The project was supervised by Dr. Abdalkarim Awwad and Dr. Ibrahim Nimer.
+The projects were supervised by Dr. Abdalkarim Awwad and Dr. Ibrahim Nimer.
 ---
 All projects details are included in the repository and all people are free to explore.
 ***
