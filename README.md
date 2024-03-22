@@ -22,11 +22,11 @@ Through these structured segments, students progress from understanding foundati
 Project Title: Building a Topology Using Packet Tracer Tool
 
 
-Summary:
+Summary
 ---
 This Project delves into various aspects of network setup and functionality, including IP subnetting, router configuration, server setup, VLAN management, routing protocols, and connectivity testing.
 
-Project Details:
+Project Details
 ---
 Delve into the specifics of IP assignment and subnetting, meticulously outlined in Part 0 of the report. The subsequent sections detail the creation and configuration of the network topology using Packet Tracer, showcasing the setup of routers (Router0, Router1, Router2), servers (HTTP, DNS, Email), and switches. Each configuration is accompanied by detailed figures illustrating the setup process and the associated IOS commands.
 
