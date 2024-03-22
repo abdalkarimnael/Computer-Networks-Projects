@@ -1,0 +1,276 @@
+/*html{
+    direction: rtl;
+    height: 100%;
+    min-width: 1000px;
+    min-height: 1000px;
+    will-change:scroll-position;
+}
+
+body {
+    background-color: rgba(255, 255, 255, 0.498);
+}
+
+.header {
+    background-image: url('./Fordesc.jpg');
+    background-size: 2800px;
+    background-attachment:scroll;
+    background-position: 0px 0px;
+    margin: -10px -8px;
+    width: auto;
+}
+
+
+.navBar {
+    background-color:rgba(245, 245, 245, 0.934);
+    margin: -10px -5px;
+    z-index: 2;
+    max-height: 90px;
+    width: inherit;
+    overflow: auto;
+    
+}
+*/
+html{
+    direction: rtl;
+    height: 100%;
+    min-height: 1000px;
+    will-change:scroll-position;
+}
+
+body {
+    background-color: rgb(208 208 208);
+    min-width: 1400px;
+}
+
+.header {
+    background-image: url('./Fordesc.jpg');
+    background-size: 2800px;
+    background-attachment:scroll;
+    background-position: 0 0;
+    margin: -10px -8px;
+    width: auto;
+}
+
+
+.navBar {
+    background-color:rgba(245, 245, 245, 0.934);
+    margin: -10px -5px;
+    z-index: 2;
+    max-height: 80px;
+    width: inherit;  
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-right: 10px;
+}
+
+li {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+.home {
+    text-transform: capitalize;
+    margin-right: 100px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: all 0.1s;
+}
+
+.about {
+    text-transform: capitalize;
+    margin-right: 60px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: all 0.1s;
+}
+
+.strings {
+    /*margin-left: 1160px;*/
+    margin-right: 600px;
+    text-decoration: none;
+    color: rgb(0, 0, 88);
+    font-weight: 900;
+    letter-spacing: 0.5px;
+    transition: all 0.1s;
+    font-size: 12px;
+
+}
+
+
+.home:hover,
+.about:hover,
+.strings:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+.bzu {
+    padding: 15px 15px;
+    margin: 4px 0 0 0;
+}
+
+.desc {
+    color: rgb(0, 0, 0);
+    font-size: 55px;
+    font-weight: bolder;
+    width: fit-content;
+    min-width: 500px;
+    max-width: 620px;
+    overflow: auto;
+    margin: 30px 50px 5px 0;
+    background-color: rgba(212, 212, 212, 0.788);
+    border-color: white;
+    border-width: 2px;
+    border-style: none double;
+    border-radius: 10px;
+    cursor: default;
+    /*To define the delay of transition for properties*/
+    transition: background-color 0.5s;
+    padding-top: 0;
+    padding-right: 10px;
+}
+
+.welcome {
+    text-align: right;
+    margin-right: 22px;
+}
+
+.CourseName {
+    color: blue;
+    margin-right: 5px;
+}
+
+.desc:hover {
+    background-color: rgb(212, 212, 212);    
+}
+
+.ourTeam {
+    font-size: 30px;
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+    width: fit-content;
+    color: rgba(62, 64, 204, 0.95);
+    border-width: 1px;
+    border-color: rgba(0, 0, 0, 0.473);
+    border-style: none none double none;
+    margin: 10px 50px 0 0;
+}
+
+.Gnames {
+    font-size: 20px;
+    font-weight: 900;
+    font-style: italic;
+    color: rgba(0, 0, 255, 0.575);
+    padding-left: 60px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.Names {
+    line-height: 50px;
+    cursor: default;
+    background-color: rgb(212, 212, 212);
+    width: fit-content;
+    overflow: auto;
+    border-width: 5px;
+    border-color: rgba(175, 6, 6, 0.473);
+    border-style: double none double none;
+    border-radius: 15px;
+    border-radius: 15px 120px;
+    margin: 15px 30px 0 0;
+    padding-right: 20px;
+    padding-left: 20px;
+    text-align: right;
+}
+
+.abood,
+.mamo,
+.firas {
+    color: black;
+}
+
+.dt:hover {
+    border-width: 1px;
+    border-color: antiquewhite;
+    border-style: none double none none;
+    border-radius: 10px;
+}
+/*Boxes*/
+.boxes {
+    margin-top: 70px;
+    margin-left: 10px;
+}
+
+.box1,
+.box2,
+.box3 {
+    border-width: 2px;
+    border-color: black;
+    border-style: double;
+    width: 80%;
+    margin: auto;
+    transition: background-color 0.75s;
+}
+
+.title {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    width: fit-content;
+    border-width: 2px;
+    border-color: black;
+    border-style:none none solid none;
+    cursor: default;
+    margin-right: 20px;
+}
+
+.circle {
+    font-size: 30px;
+    color: rgba(0, 0, 0, 0.767);
+}
+
+.name {
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    text-align: right;
+    padding-right: 10px;
+}
+
+table {
+    margin-right: 50px;
+    overflow: auto;
+}
+
+th {
+    padding-right: 100px;
+    text-align: right;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+td {
+    padding-right: 100px;
+    letter-spacing: 1px;
+    text-align: right;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.box1:hover,
+.box2:hover,
+.box3:hover {
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.877);
+}
