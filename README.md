@@ -1,4 +1,5 @@
 # Computer-Networks-Projects
+***
 1st Project
 ***
 Project Content
@@ -17,7 +18,7 @@ Part Three: This section likely extends the exploration to more advanced network
 
 Communication on the Same Computer: Further exploration of server-client interactions and web server configurations within a single machine.
 Communication on Different Devices: Continuing the exploration of network communication between different devices, possibly involving more complex configurations and scenarios.
-***
+
 Contributors
 ---
 Abdalkarim Eiss (Student ID: 1200015)
@@ -28,3 +29,4 @@ Instructors
 ---
 The project was supervised by Dr. Abdalkarim Awwad and Dr. Ibrahim Nimer.
 All project details are included in the repository and all people are free to explore.
+***
