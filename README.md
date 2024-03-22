@@ -28,5 +28,6 @@ Firas Sandouka (Student ID: 1200779)
 Instructors
 ---
 The project was supervised by Dr. Abdalkarim Awwad and Dr. Ibrahim Nimer.
+---
 All project details are included in the repository and all people are free to explore.
 ***
