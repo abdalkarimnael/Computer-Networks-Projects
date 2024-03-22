@@ -36,7 +36,7 @@ Explore the intricacies of computer networking through the lens of this comprehe
 ***
 Contributors
 ---
-Abdalkarim Eiss, 
+Abdalkarim Eiss (Barghouthi), 
 Mahmoud Khatib, 
 Firas Sandouka
 ***
