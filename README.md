@@ -1,7 +1,7 @@
 # Computer-Networks-Projects
 
 1st Project
-***
+**
 Project Content
 ---
 The project is divided into three main parts:
