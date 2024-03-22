@@ -20,7 +20,7 @@ Through these structured segments, students progress from understanding foundati
 2nd Project
 ---
 Project Title: Building a Topology Using Packet Tracer Tool
--
+
 
 Summary:
 ---
@@ -43,6 +43,5 @@ Firas Sandouka
 Instructors
 ---
 The projects were supervised by Dr. Abdalkarim Awwad and Dr. Ibrahim Nimer.
----
-All projects details are included in the repository and all people are free to explore.
 ***
+All projects details are included in the repository and all people are free to explore.
