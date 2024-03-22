@@ -21,8 +21,8 @@ Communication on Different Devices: Continuing the exploration of network commun
 
 Contributors
 ---
-Abdalkarim Eiss (Student ID: 1200015)
-Mahmoud Khatib (Student ID: 1200275)
+Abdalkarim Eiss (Student ID: 1200015), 
+Mahmoud Khatib (Student ID: 1200275), 
 Firas Sandouka (Student ID: 1200779)
 ***
 Instructors
